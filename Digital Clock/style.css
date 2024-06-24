@@ -32,6 +32,8 @@ animation: ease-in-out infinite;
     background-size: 100% 0.5%, contain;
      background-blend-mode: hard-light; 
   }
+  .container:hover {
+    cursor: pointer;
   
 }
 @keyframes animate {
@@ -55,6 +57,7 @@ animation: ease-in-out infinite;
     gap: 20px;
     
 }
+
 .section {
     color: white;
     display: flex;
