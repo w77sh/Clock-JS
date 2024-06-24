@@ -10,8 +10,5 @@ setInterval(
 hours.textContent = date.getHours()
 minutes.textContent = date.getMinutes()
 seconds.textContent = date.getSeconds()
-
-
 }
-
 )
