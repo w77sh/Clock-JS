@@ -16,3 +16,4 @@ seconds.textContent = date.getSeconds()
 }
 )
 ```
+![alt text](image.png)
